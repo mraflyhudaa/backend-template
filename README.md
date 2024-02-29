@@ -17,6 +17,7 @@ This backend template is designed to provide a solid starting point for Node.js 
 ### Prerequisites
 
 - Node.js (v14.x or newer)
+- yarn (v1.x or newer)
 - npm (v6.x or newer)
 - MongoDB (Local or Atlas)
 
@@ -100,6 +101,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Prettier
 - ESLint
 - Husky
-```
-
-This README template covers the essential sections, including an overview of the stack, getting started instructions, a description of available scripts, and guidance on contributing to the project. It assumes the presence of a `.env.example` file for environment variables and provides a placeholder for Docker support, which can be customized based on your project's needs.
